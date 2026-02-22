@@ -4,6 +4,6 @@
 
 Find out more at https://rriv.org
 
-System documentation: https://rrivirr.github.io/rriv-documentation/
+System documentation: https://rriv.gitbook.io/rriv-documentation/
 
 Join us directly on Matrix chat: https://matrix.to/#/#rriv:rriv.org
