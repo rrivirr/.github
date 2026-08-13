@@ -6,7 +6,7 @@ We build open source cloud services, configuration and control tools, and open h
 
 We empower communities to monitor their own watersheds and simplify R&D of novel sensor technologies. 
 
-Learn more: https://rriv.org or [Connect on Bluesky](https://bsky.app/profile/rrivteam.bsky.social)
+[Learn more](https://rriv.org) or [Connect on Bluesky](https://bsky.app/profile/rrivteam.bsky.social)
 
 
 
