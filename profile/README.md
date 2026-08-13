@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/rrivirr/rriv-website/refs/heads/main/assets/rrivlogo.png"/>
+
+
 # The River is at the Center
 
 ## RRIV is a user-centric, open platform for environmental monitoring and awareness.
