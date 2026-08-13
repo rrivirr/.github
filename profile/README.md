@@ -2,7 +2,7 @@
 
 <a href="https://www.rriv.org">River Restoration Intelligence and Verification</a> (RRIV) provides environmental monitoring platforms for the public good.
 
-We build open source cloud services, configuration and control tools, and open hardware.
+We build open source cloud services, configuration and control tools, and open sensor hardware.
 
 We empower communities to monitor their own watersheds and simplify R&D of novel sensor technologies. 
 
