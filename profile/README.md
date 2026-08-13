@@ -4,9 +4,7 @@
 
 We build open source cloud services, configuration and control tools, and open hardware.
 
-We empower communities to monitor their own watersheds and support R&D of novel sensor technologies. 
-
-System documentation: https://rriv.gitbook.io/rriv-documentation/
+We empower communities to monitor their own watersheds and simplify R&D of novel sensor technologies. 
 
 Learn more: https://rriv.org
 
