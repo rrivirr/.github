@@ -8,7 +8,7 @@ We empower communities to monitor their own watersheds and simplify R&D of novel
 
 Learn more: https://rriv.org
 
-[Connect on Bluesky](https://bsky.app/profile/yourusername.bsky.social](https://bsky.app/profile/rrivteam.bsky.social)
+[Connect on Bluesky](https://bsky.app/profile/rrivteam.bsky.social)
 
 
 
